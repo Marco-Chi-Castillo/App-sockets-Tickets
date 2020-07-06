@@ -1,8 +1,8 @@
 # Notas:
 
-Este es un pequeño servidor de express listo para ejecutarse y servir la carpeta public en la web.
+Aplicacón de Tickets usando Node JS, que puede generar Tickets y ser atendidos por diversos equipos remotos con la ayuda de los sockets.
 
-Recuerden que deben de reconstruir los módulos de node con el comando
+Reconstruir los node-modules.
 
 ```
 npm install
